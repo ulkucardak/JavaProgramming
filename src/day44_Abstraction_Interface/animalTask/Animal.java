@@ -45,8 +45,10 @@ public abstract class Animal {
     }
 
     public void setName(String name) {
-        if(name.isEmpty()){
+        if(name.isEmpty()|| name.isBlank()){
             throw new RuntimeException("Invalid Name");
+            /*System.err.println("Invalid name");
+            System.exit(1);*/
         }
         this.name = name;
     }
