@@ -1,4 +1,4 @@
-package day44_Abstraction_Interface.animalTask;
+package day44_Abstraction.animalTask;
 
 public interface Flyable {
 

@@ -1,7 +1,5 @@
 package day03_EscapeSequences;
 
-import jdk.swing.interop.SwingInterOpUtils;
-
 public class GasReciept {
 
     public static void main(String[] args) {

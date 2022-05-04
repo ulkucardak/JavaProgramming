@@ -1,4 +1,4 @@
-package day44_Abstraction_Interface.animalTask;
+package day44_Abstraction.animalTask;
 
 public final class Dog extends Animal implements Playable{
 
