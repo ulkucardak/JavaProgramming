@@ -1,4 +1,4 @@
-package day44_Abstraction.animalTask;
+package day44_Abstraction_Interface.animalTask;
 
 public class TestAnimal {
     public static void main(String[] args) {
