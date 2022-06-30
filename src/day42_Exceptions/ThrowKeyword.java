@@ -12,6 +12,7 @@ public class ThrowKeyword {
 
         if(age < 0){
             throw new InputMismatchException("Age can not be negative: "+age);
+
         }
 
         if(age > 21){
